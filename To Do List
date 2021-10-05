@@ -1,0 +1,22 @@
+Work and add on to project
+==============================================================================
+NEED TO DO
+-Search for Account/Order History
+-Inventory store (figure out what I want to do)
+-Placing an order...
+    -Just make one page and switch statements for online or Inventory
+    (nested switches?)
+-Make an Order History
+-Take out and add too DB Inventory
+
+
+DONE
+-Add Account
+-Made Models
+-Make UI
+-Made DB
+-Connected DB
+
+
+MAYBE ADD IF TIME OR MAKE BETTER
+-Make it so you can't have the same usernames
