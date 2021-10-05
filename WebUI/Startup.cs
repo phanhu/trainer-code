@@ -12,6 +12,8 @@ using StoreDL;
 using StoreBL;
 using Microsoft.EntityFrameworkCore;
 
+//Testing
+
 namespace WebUI
 {
     public class Startup
